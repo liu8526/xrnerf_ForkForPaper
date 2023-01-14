@@ -15,3 +15,4 @@ push.sh
 /data/
 .coverage
 /.pytest_cache/
+/.vscode
